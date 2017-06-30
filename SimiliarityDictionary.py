@@ -1,4 +1,3 @@
-import numpy as np
 """
 Below code aims to create a class that on creation takes in a list of words
 Can look for the most similar word to any word you have by calling find_most_similar function
